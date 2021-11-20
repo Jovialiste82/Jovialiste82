@@ -3,8 +3,8 @@
 ## 💻 Technologies
 
 
-![HTML5](https://img.shields.io/badge/-html5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-css3-000?&logo=css3&logoColor=4479A1)
+![Html5](https://img.shields.io/badge/-html5-000?&logo=html5)
+![Css3](https://img.shields.io/badge/-css3-000?&logo=css3&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
