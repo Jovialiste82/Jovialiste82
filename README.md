@@ -13,8 +13,6 @@
 ![Express](https://img.shields.io/badge/Express.js-000?&logo=Express)
 ![Sass](https://img.shields.io/badge/-SASS-000?&logo=SASS)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&logo=Bootstrap)
-![Material-UI](https://img.shields.io/badge/MaterialUI-000?&logo=MaterialUI&logoColor=4479A1)
-![Styled-Components](https://img.shields.io/badge/Styled--Components-000?&logo=styled-components)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb)
